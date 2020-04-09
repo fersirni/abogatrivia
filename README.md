@@ -1,2 +1,2 @@
-# abogatrivia
-Trivia de abogacia para preparar examenes
+# Aboga-trivia!!
+Trivia de abogacía para preparar exámenes
