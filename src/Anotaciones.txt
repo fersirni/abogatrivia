@@ -1,0 +1,37 @@
+Clases
+
+Usuario
+    Id
+    Email
+    Nombre
+    Apellido
+    Trivia
+    Historial
+
+Materia
+    Id
+    Nombre
+    Unidades
+    RamaDelDerecho
+
+Unidad
+    Id
+    Preguntas
+
+Pregunta
+    Id
+    Texto
+    RespuestasIncorrectas
+    RespuestaCorrecta
+
+Respuesta
+    Id
+    Texto
+
+Trivia
+    Id
+    Usuario
+    Puntaje
+    Preguntas
+
+Historial
